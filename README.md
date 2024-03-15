@@ -1,6 +1,6 @@
 # Aula sobre HTML & CSS
 
-Neste Stage 02 eu aprendi os seguintes recursos:
+Neste Stage 03 eu aprendi os seguintes recursos:
 - O que é e como usar: form, fieldset, legend, labe, input, select e option.
 
 ## 🔗 Links
